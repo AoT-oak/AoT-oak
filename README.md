@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 直接引用你上传到仓库根目录的 header.gif，修改了 width 让它显示小一点 -->
-  <img src="header.gif" alt="Oak's Dynamic Header" width="800" />
+  <!-- 保持宽度800，增加了 height 属性来单独缩小高度 -->
+  <img src="header.gif" alt="Oak's Dynamic Header" width="1000" height="250" />
 </div>
 
 <br>
@@ -20,18 +20,6 @@
 *   🌱 致力于深耕 **Artificial Intelligence** 方向，对汽车行业充满热情。
 *   💡 主导开发了包含视觉大模型与目标检测的 [MultiModal-Logo-Detection](https://github.com/AoT-oak/MultiModal-Logo-Detection) 项目。
 *   🎯 2026年目标：秋招拿下心仪 Offer！
-
-<br>
-
-### 🛠️ 技术栈 | Tech Stack
-
-<div align="center">
-  <br>
-  <code>Python</code> • <code>PyTorch</code> • <code>Git</code> • <code>Linux</code> 
-  <br>
-</div>
-
-<br>
 
 ### 📬 联系我 | Contact
 
