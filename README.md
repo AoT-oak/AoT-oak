@@ -1,11 +1,11 @@
 <div align="center">
   <!-- 保持宽度800，增加了 height 属性来单独缩小高度 -->
-  <img src="header.gif" alt="Oak's Dynamic Header" width="1000" height="500" />
+  <img src="header.gif" alt="Oak's Dynamic Header" width="1000" height="400" />
 </div>
 
 <br>
 
-<div align="center">
+
   <h1>👋 你好，我是 Oak</h1>
   <p><b>🎓 Inner Mongolia University 计算机硕士 | 🚀 探索多模态技术与大模型应用 | 🎯 心之所向，无所不能</b></p>
 </div>
