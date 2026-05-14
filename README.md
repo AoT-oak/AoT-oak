@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 保持宽度800，增加了 height 属性来单独缩小高度 -->
-  <img src="header.gif" alt="Oak's Dynamic Header" width="1000" height="250" />
+  <img src="header.gif" alt="Oak's Dynamic Header" width="1000" height="500" />
 </div>
 
 <br>
