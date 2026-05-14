@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- 直接引用你上传到仓库根目录的 header.gif -->
-  <img src="header.gif" alt="Oak's Dynamic Header" width="100%" />
+  <!-- 直接引用你上传到仓库根目录的 header.gif，修改了 width 让它显示小一点 -->
+  <img src="header.gif" alt="Oak's Dynamic Header" width="800" />
 </div>
 
 <br>
