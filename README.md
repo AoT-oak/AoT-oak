@@ -18,7 +18,7 @@
 
 *   🔭 目前正专注于 **多模态模型**  与 **大模型** ( RAG, Agent)。
 *   🌱 致力于深耕 **Artificial Intelligence** 方向，对汽车行业充满热情。
-*   💡 主导开发了包含视觉大模型与目标检测的 [MultiModal-Logo-Detection](https://github.com/AoT-oak/MultiModal-Logo-Detection) 项目。
+*   💡 主导开发了包含视觉大模型与目标检测的 [MultiModal-Logo-Detection](https://github.com/AoT-oak/MultiModal-Logo-Detection)和 [Car-Manual-RAG](https://github.com/AoT-oak/Car-Manual-RAG)项目。
 *   🎯 2026年目标：秋招拿下心仪 Offer！
 
 ### 📬 联系我 | Contact
