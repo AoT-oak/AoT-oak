@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>👋 你好，我是 Oak</h1>
-  <p><b>🎓 Inner Mongolia University 计算机硕士 | 🚀 探索多模态技术与大模型应用 | 🎯 心之所向，无所不能</b></p>
+  <p><b>🎓 Master of Computer Science, Inner Mongolia University | 🚀 探索多模态技术与大模型应用 | 🎯 心之所向，无所不能</b></p>
 </div>
 
 ---
